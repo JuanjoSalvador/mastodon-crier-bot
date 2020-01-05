@@ -16,7 +16,7 @@ You can write your own post template and change whatever you need about the stad
 
 ## Production example
 
-I'm running this bot on (hispatodon.club)[https://hispatodon.club/@pregonero] in order to show how the network is growing up.
+I'm running this bot on [hispatodon.club](https://hispatodon.club/@pregonero) in order to show how the network is growing up.
 
 ## License
 
